@@ -1,6 +1,7 @@
 ## Hi there, I'm fazzilka! 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Python+Backend+Developer)](https://git.io/typing-svg)
+
 ### 🛠 Tech Stack:
 
 **Backend:**  
@@ -27,5 +28,4 @@
 ---
 
 > _"Code smart, not hard."_ 🚀
-
 > _"Bad habit - I've been using Linux for 5 years."_
