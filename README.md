@@ -28,4 +28,5 @@
 ---
 
 > _"Code smart, not hard."_ 🚀
+
 > _"Bad habit - I've been using Linux for 5 years."_
