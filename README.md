@@ -25,8 +25,6 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fazziilka)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](o.d.mitin@gmail.com)  
 
-### Used Languages Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexeyGrushev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
