@@ -22,7 +22,7 @@
 - ⚡ Interested in cloud computing, CI/CD, and system architecture.
 
 ### 📫 Contact Me:
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/fazziilka)  
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Mitin_0leg)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](o.d.mitin@gmail.com)  
 
 
