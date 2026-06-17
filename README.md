@@ -19,7 +19,7 @@
 - 🖥️ Backend developer passionate about building scalable and efficient applications.
 - 📚 Learning DevOps to master server deployments and automation.
 - 🐧 Linux, MacOs and Windows enthusiast, always exploring new tools and workflows.
-- ⚡ Interested in cloud computing, CI/CD, and system architecture.
+- ⚡ Interested in artificial intelligence namely RAG
 
 ### 📫 Contact Me:
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/Mitin_0leg)  
