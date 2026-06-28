@@ -18,7 +18,7 @@
 ### 🚀 About Me:
 - 🖥️ Backend developer passionate about building scalable and efficient applications.
 - 📚 Learning DevOps to master server deployments and automation.
-- 🐧 Linux, MacOs and Windows enthusiast, always exploring new tools and workflows.
+- 🐧 Linux, MacOS and Windows enthusiast, always exploring new tools and workflows.
 - ⚡ Interested in artificial intelligence namely RAG
 
 ### 📫 Contact Me:
